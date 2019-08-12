@@ -6,7 +6,7 @@
 
 ```bash
 $ npx degit remaxjs/template-alipay-typescript my-app
-% cd my-app
+$ cd my-app
 ```
 
 ## 开始开发
