@@ -6,6 +6,10 @@
     "strict": true,
     "esModuleInterop": true,
     "jsx": "preserve",
-    "rootDir": "src"
+    "rootDir": "src",
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
   }
 }
