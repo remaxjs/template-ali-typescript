@@ -19,5 +19,8 @@
     "remax": "^1.0.1",
     "remax-cli": "^1.0.1",
     "rimraf": "^2.6.3"
+  },
+  "devDependencies": {
+    "chokidar": "^2.1.8"
   }
 }
