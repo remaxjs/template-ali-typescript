@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { View, Text, Image } from 'remax/wechat';
+import { View, Text, Image } from 'remax/alipay';
 import styles from './index.module.css';
 
 export default () => {
