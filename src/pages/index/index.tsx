@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { View, Text, Image } from 'remax/alipay';
-import styles from './index.module.css';
+import styles from './index.css';
 
 export default () => {
   return (
@@ -11,7 +11,8 @@ export default () => {
           className={styles.logo}
         />
         <View className={styles.text}>
-          编辑 <Text className={styles.path}>src/pages/index/index.tsx</Text> 开始!
+          编辑 <Text className={styles.path}>src/pages/index/index.tsx</Text>{' '}
+          开始!
         </View>
       </View>
     </View>
